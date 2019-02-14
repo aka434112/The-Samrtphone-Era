@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "phone": "smartphone-penetration",
+    "default": "smartphone-penetration"
+  }
+}
