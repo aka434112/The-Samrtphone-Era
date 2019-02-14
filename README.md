@@ -1,4 +1,4 @@
-# visualize
+# The Smartphone Era
 
 > A Vue.js project
 
