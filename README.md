@@ -1,5 +1,5 @@
 # The Smartphone Era
-
+## Vist https://smartphone-penetration.firebaseapp.com/ to try out the application
 > A Vue.js project
 
 ## Build Setup
